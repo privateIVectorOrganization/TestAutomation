@@ -1,0 +1,11 @@
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\bin\Debug\netcoreapp3.0\IVector.Common.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\obj\Debug\netcoreapp3.0\IVector.App.csprojAssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\obj\Debug\netcoreapp3.0\IVector.App.AssemblyInfoInputs.cache
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\obj\Debug\netcoreapp3.0\IVector.App.AssemblyInfo.cs
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\bin\Debug\netcoreapp3.0\IVector.App.deps.json
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\bin\Debug\netcoreapp3.0\IVector.App.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\bin\Debug\netcoreapp3.0\IVector.App.pdb
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\bin\Debug\netcoreapp3.0\IVector.Common.pdb
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\obj\Debug\netcoreapp3.0\IVector.App.csproj.CopyComplete
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\obj\Debug\netcoreapp3.0\IVector.App.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.App\obj\Debug\netcoreapp3.0\IVector.App.pdb

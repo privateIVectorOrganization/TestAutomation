@@ -1,0 +1,10 @@
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\IVector.deps.json
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\IVector.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\obj\Debug\netcoreapp3.0\IVector.csprojAssemblyReference.cache
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\obj\Debug\netcoreapp3.0\IVector.AssemblyInfoInputs.cache
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\obj\Debug\netcoreapp3.0\IVector.AssemblyInfo.cs
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\NUnit3.TestAdapter.pdb
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\nunit.engine.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\nunit.engine.api.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector\bin\Debug\netcoreapp3.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll

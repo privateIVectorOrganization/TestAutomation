@@ -1,0 +1,8 @@
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\obj\Debug\netcoreapp3.0\IVector.Common.AssemblyInfoInputs.cache
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\obj\Debug\netcoreapp3.0\IVector.Common.AssemblyInfo.cs
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\bin\Debug\netcoreapp3.0\IVector.Common.deps.json
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\bin\Debug\netcoreapp3.0\IVector.Common.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\bin\Debug\netcoreapp3.0\IVector.Common.pdb
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\obj\Debug\netcoreapp3.0\IVector.Common.dll
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\obj\Debug\netcoreapp3.0\IVector.Common.pdb
+C:\Users\Desktop-PC\Desktop\programing\IVector\IVector.Common\obj\Debug\netcoreapp3.0\IVector.Common.csprojAssemblyReference.cache
